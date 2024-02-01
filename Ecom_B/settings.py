@@ -105,8 +105,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': "Ecom",
-        "USER": "Titan",
-        "PASSWORD":"titan004",
+        "USER": "hbtl",
+        "PASSWORD":"hbtl123123",
         "HOST":"localhost", 
     }
 }
